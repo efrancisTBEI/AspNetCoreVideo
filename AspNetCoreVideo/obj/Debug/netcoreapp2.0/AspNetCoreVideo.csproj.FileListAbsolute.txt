@@ -1,0 +1,11 @@
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.deps.json
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.runtimeconfig.json
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.runtimeconfig.dev.json
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.dll
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.csprojResolveAssemblyReference.cache
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.csproj.CoreCompileInputs.cache
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.AssemblyInfoInputs.cache
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.AssemblyInfo.cs
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.dll
+C:\Users\efrancis\source\repos\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp2.0\AspNetCoreVideo.pdb
